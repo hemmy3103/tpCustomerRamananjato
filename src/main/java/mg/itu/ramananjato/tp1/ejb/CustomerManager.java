@@ -17,7 +17,9 @@ import jakarta.ejb.Stateless;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import jakarta.persistence.Query;
-
+/**
+ * Gère la persistance des Customers.
+ */
 @Stateless
 public class CustomerManager {
 
