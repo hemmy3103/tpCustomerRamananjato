@@ -5,6 +5,5 @@ mg\itu\ramananjato\tp1\entities\Customer.class
 mg\itu\ramananjato\tp1\jsf\CustomerBean.class
 mg\itu\ramananjato\tp1\jsf\CustomerDetailsBean.class
 mg\itu\ramananjato\tp1\ejb\CustomerManager.class
-mg\itu\ramananjato\tp1\entities\JakartaRestConfiguration.class
 mg\itu\ramananjato\tp1\ejb\DiscountManager.class
 mg\itu\ramananjato\tp1\entities\MicroMarket.class
